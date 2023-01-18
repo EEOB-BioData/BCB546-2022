@@ -1,5 +1,5 @@
-# BCB/EEOB 546, Computational Skills for Biological Data<br> Spring 2022 
-### Wednesday/Friday, 1:10-2:30p.m., Bessey Hall 334
+# BCB/EEOB 546, Computational Skills for Biological Data<br> Spring 2023 
+### Wednesday/Friday, 1:10-2:30p.m., Bessey Hall 0030
 
 ## Course Website
 
@@ -11,7 +11,6 @@ The course website contains links to all of the information you will need to nav
 
 We will also provide some information via the course Canvas page (for content that cannot be shared publicly). 
 
-[https://canvas.iastate.edu/courses/89022](https://canvas.iastate.edu/courses/89022) 
 
 
 ## Instructors
@@ -19,7 +18,7 @@ We will also provide some information via the course Canvas page (for content th
 All office hours are by appointment. If you need to contact any instructor, please send a direct message via [Slack](https://biodataskills.slack.com/).
 
 * Dr. Matt Hufford
-* Dr. Tracy Heath
+* Dr. Wade Dismukes
 * Dr. Dennis Lavrov
 
 ## Course Description
@@ -35,7 +34,7 @@ This course will be held in person unless otherwise specified.
 
 A detailed schedule the course can be found here:
 
-[https://docs.google.com/spreadsheets/d/1TvUUkSHFgUm0TiEs5dXghUqxP-gdEvxs1jX_KYozsCE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1TvUUkSHFgUm0TiEs5dXghUqxP-gdEvxs1jX_KYozsCE/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1zHki2gVbZn-PYvyU11XJWvD3J6oTVrF0f7GAhSHS4Dw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1zHki2gVbZn-PYvyU11XJWvD3J6oTVrF0f7GAhSHS4Dw/edit?usp=sharing)
 
 Additionally, we will provide links to slides and other information on the course website schedule page:
 
@@ -77,7 +76,7 @@ preparation in LaTeX and Overleaf and creation of NSF-style Data Management Plan
 
 ## Hardware and Software Requirements
 
-In order to complete computational exercises and the group project for this course, students will need access to a Unix operating system. The Mac OS X operating system is based on Unix. Mac users can access a command line interface through the “Terminal” application (located in the `/Applications/Utilities` folder). For PC users, a Unix environment can be emulated using the “[​Git Bash](https://www.atlassian.com/git/tutorials/git-bash)​” program, by partitioning your hard drive and installing ​[Ubuntu](https://ubuntu.com/download)​, or by installing [Cygwin](https://www.cygwin.com/)​. These solutions for PC users may not be ideal for all course exercises and we can provide access to Mac computers if you would prefer to go this route. We will also demonstrate how to log into HPC-class, a computer cluster for coursework at ISU. When on HPC-class, you are in a Unix environment.
+In order to complete computational exercises and the group project for this course, students will need access to a Unix operating system. The Mac OS X operating system is based on Unix. Mac users can access a command line interface through the “Terminal” application (located in the `/Applications/Utilities` folder). For PC users, a Unix environment can be emulated using the “[​Git Bash](https://www.atlassian.com/git/tutorials/git-bash)​” program, by partitioning your hard drive and installing ​[Ubuntu](https://ubuntu.com/download)​, or by installing [Cygwin](https://www.cygwin.com/)​. These solutions for PC users may not be ideal for all course exercises and we can provide access to Mac computers if you would prefer to go this route. We will also demonstrate how to log into Nova, a computer cluster available to students for coursework at ISU. When on Nova, you are in a Unix environment.
 
 Links for PC Unix emulation:
 
